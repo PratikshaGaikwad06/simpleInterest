@@ -1,2 +1,2 @@
-# simpleInterest
+# simpleTrust
 our team page
